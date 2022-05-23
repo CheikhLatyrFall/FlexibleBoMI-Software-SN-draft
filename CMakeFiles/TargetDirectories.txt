@@ -1,1 +1,0 @@
-/home/pi/projet_tristan/projet/CMakeFiles/projet_imu.dir
